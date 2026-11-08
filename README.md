@@ -2,34 +2,43 @@
 
 **Développeuse web full-stack junior · Étudiante en 3ᵉ année de licence DSI à l’ISET Charguia**
 
-Je développe des applications web, de l’interface à l’API. Mes projets explorent la formation en ligne, l’accès aux missions freelance pour les étudiants et l’IA appliquée à la validation d’idées de startup.
+Je développe des applications web, de l’interface à l’API. Mes projets portent sur les services aux étudiants, la formation en ligne et l’IA appliquée à l’analyse d’idées de startup.
 
 ## Projets à découvrir
 
 ### SynapFlow · Missions freelance pour étudiants
 
-Plateforme académique qui rapproche des étudiants freelances et des entreprises. Le prototype Angular présente la recherche de missions, le suivi des candidatures et l’espace étudiant. Le projet s’appuie sur Angular, FastAPI et PostgreSQL.
+Application de mise en relation entre des étudiants freelances et des entreprises. Le prototype permet de chercher des missions, de filtrer le catalogue et de suivre les candidatures dans un espace étudiant.
 
-[Voir le prototype et la base d’API](https://github.com/slaimiemna05-dotcom/projet_integration_front)
+**Technologies** · Angular, TypeScript, FastAPI, PostgreSQL
+
+### Colocation étudiante · Recherche et réservation de logements
+
+L’interface Angular permet de consulter les logements et de suivre les réservations. L’API Spring Boot gère les logements, les demandes et les profils. Un module étudiant Spring Boot séparé pose les bases d’une architecture microservices.
+
+**Technologies** · Angular, Java, Spring Boot, PostgreSQL, Eureka
 
 ### PitchAI · Hackathon GOMYCODE × NVIDIA
 
-Avec l’équipe **ONYX**, nous avons conçu et testé en moins de 11 heures un prototype qui transforme une idée de startup en analyse de marché, Business Model Canvas, score de viabilité et pitch de 30 secondes. L’analyse peut être exportée en PDF avec des pistes à valider.
+Avec l’équipe **ONYX**, nous avons conçu et testé en moins de 11 heures un prototype qui transforme une idée de startup en analyse de marché, Business Model Canvas, score de viabilité et pitch de 30 secondes. Un rapport PDF rassemble les résultats et les hypothèses à valider.
 
 **Technologies** · React, TypeScript, Node.js, NVIDIA NIM, PostgreSQL, Docker
 
 ### Plateforme de formation · Stage Smart Skills
 
-Participation au développement front-end et back-end d’une plateforme de gestion de la formation (LMS) en React, PHP et MySQL.
+J’ai participé au développement de l’interface et du back-end d’une plateforme de gestion de la formation (LMS) pendant mon stage chez Smart Skills.
 
-[Voir la présentation du projet](https://github.com/slaimiemna05-dotcom/Platform_de_formation)
+**Technologies** · React, PHP, MySQL
 
 ## Autres réalisations
 
 | Projet | Aperçu |
 | --- | --- |
-| [Réservation de cafés](https://github.com/slaimiemna05-dotcom/ProjetAngularVersionFinal-Sem1) | Catalogue et parcours de réservation en Angular et Bootstrap |
-| [Projet Peinture](https://github.com/slaimiemna05-dotcom/Projet-Symphony-Emna-2) | Gestion d’un catalogue de peintures et de ses commentaires avec Symfony et EasyAdmin |
+| **Blood Link** | Application autour du don de sang, conçue selon une architecture orientée services et modélisée en UML. |
+| **Réservation de cafés** | Catalogue de cafés et parcours de réservation dans une application Angular et Bootstrap. |
+| **Projet Peinture** | Gestion d’un catalogue de peintures, de catégories et de commentaires avec Symfony et EasyAdmin. |
+
+**Présentation à venir** · Plateforme de partage de cours.
 
 ## Compétences
 
@@ -39,3 +48,5 @@ Participation au développement front-end et back-end d’une plateforme de gest
 | API et back-end | FastAPI, Node.js, PHP, Symfony, Spring Boot |
 | Données | PostgreSQL, MySQL |
 | Outils | Git, GitHub, Docker, UML |
+
+Mes dépôts de projet sont privés. Pour une évaluation, je peux donner accès au dépôt concerné sur invitation.
